@@ -1,1 +1,2 @@
-this is branch master
+
+we combined both files and addited 
